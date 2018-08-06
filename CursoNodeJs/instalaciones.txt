@@ -1,0 +1,15 @@
+#Visual Studio Code
+HTML CSS Support
+JavaScript ES6 Code Snippets
+Beautify
+JS-CSS-HTML Formatter
+Terminal
+TypeScript Importer
+#git
+git config --global user.name "oscarmegia"
+git config --global user.email oscarmegia@spinmedia.es
+git config --list
+#node
+nodejs.org/es
+sudo apt-get install nodejs
+sudo apt-get install npm
